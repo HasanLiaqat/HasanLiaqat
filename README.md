@@ -1,11 +1,10 @@
 ### 👋 Hey there, I'm Hassan — a Cybersecurity Enthusiast
 
-Aspiring cybersecurity professional exploring the world of Linux, Python, and ethical hacking. Passionate about digital security, automation, and hands-on problem-solving.
+Aspiring ethical hacker | Python & Linux lover | CTF learner @ TryHackMe  
 
-- 🔐 Diving into TryHackMe & OverTheWire
-- 💻 Learning scripting, tools, and Linux systems
-- 🧠 Sharing beginner projects, labs & writeups
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/hasanliaqat)
+- 🌱 Learning: **Penetration Testing, Automation, Network Security**  
+- 💼 Connect: [LinkedIn](https://linkedin.com/in/hasanliagat)  
+- 🎯 Goals: OSCP, Bug Bounties, Open-Source Contributions  
 
 ## 🚀 Skills & Tools  
 - C++, Python (beginner)
