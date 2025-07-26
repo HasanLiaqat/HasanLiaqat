@@ -7,4 +7,10 @@ Aspiring cybersecurity professional exploring the world of Linux, Python, and et
 - 🧠 Sharing beginner projects, labs & writeups
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/hasanliaqat)
 
+## 🚀 Skills & Tools  
+- C++, Python (beginner)
+- Git & GitHub
+- Linux (Kali basics)
+- TryHackMe (Beginner Path)
+
 > 🚀 Stay tuned — I’m just getting started.
