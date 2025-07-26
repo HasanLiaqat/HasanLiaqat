@@ -1,10 +1,10 @@
-### 👋 Hey there, I’m a Cybersecurity Student
+### 👋 Hey there, I'm Hassan — a Cybersecurity Enthusiast
 
-I'm an aspiring cybersecurity professional, currently building my foundations in Linux, Python, and ethical hacking. Passionate about digital security, automation, and problem-solving.
+Aspiring cybersecurity professional exploring the world of Linux, Python, and ethical hacking. Passionate about digital security, automation, and hands-on problem-solving.
 
-- 🛡️ Exploring TryHackMe & OverTheWire
-- 🔍 Learning Linux and scripting tools
-- 📁 Sharing beginner projects & writeups
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/hasanliaqat)
+- 🔐 Diving into TryHackMe & OverTheWire
+- 💻 Learning scripting, tools, and Linux systems
+- 🧠 Sharing beginner projects, labs & writeups
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/hasanliaqat)
 
-Stay tuned — this is just the beginning.
+> 🚀 Stay tuned — I’m just getting started.
