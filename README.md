@@ -1,4 +1,4 @@
-![Banner](github-profile-banner.png)
+<img src="github-profile-banner.png" alt="Hassan's GitHub Banner" style="width:100%;"/>
 ### 👋 Hey there, I'm Hassan — a Cybersecurity Enthusiast
 
 Aspiring cybersecurity professional exploring the world of Linux, Python, and ethical hacking. Passionate about digital security, automation, and hands-on problem-solving.
