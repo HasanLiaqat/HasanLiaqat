@@ -3,7 +3,7 @@
 Aspiring ethical hacker | Python & Linux lover | CTF learner @ TryHackMe  
 
 - 🌱 Learning: **Penetration Testing, Automation, Network Security**  
-- 💼 Connect: [LinkedIn](https://linkedin.com/in/hasanliagat)  
+- 💼 Connect: [LinkedIn](https://linkedin.com/in/hasanliaqat)  
 - 🎯 Goals: OSCP, Bug Bounties, Open-Source Contributions  
 
 ## 🚀 Skills & Tools  
