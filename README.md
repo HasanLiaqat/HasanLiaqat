@@ -4,11 +4,6 @@
   <strong>Aspiring Ethical Hacker | C++ & Python Developer | Linux & CTF Learner</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassanliaqat">LinkedIn</a> • 
-  <a href="mailto:hassanliaqat194@gmail.com">Email</a>
-</p>
-
 ---
 
 ## 🔒 About Me  
@@ -89,7 +84,7 @@ A set of structured assignments demonstrating C++ fundamentals.
 If you're into cybersecurity, CTFs, or programming — let’s collaborate!
 
 📩 Email: **hassanliaqat194@gmail.com**  
-🔗 LinkedIn: **/in/hasanliaqat**
+🔗 LinkedIn: **[https://www.linkedin.com/in/hasanliaqat]**
 
 ---
 
