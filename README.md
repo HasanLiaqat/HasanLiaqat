@@ -73,13 +73,6 @@ A set of structured assignments demonstrating C++ fundamentals.
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HassanLiaqat/HassanLiaqat/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 If you're into cybersecurity, CTFs, or programming — let’s collaborate!
 
