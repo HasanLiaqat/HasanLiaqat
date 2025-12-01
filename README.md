@@ -1,6 +1,6 @@
 ### 👋 Hey there, I'm Hassan — a Cybersecurity Enthusiast
 
-Aspiring ethical hacker | Python & Linux lover | CTF learner @ TryHackMe  
+Aspiring ethical hacker | C++ Python & Linux lover | CTF learner @ TryHackMe  
 
 - 🌱 Learning: **Penetration Testing, Automation, Network Security**  
 - 💼 Connect: [LinkedIn](https://linkedin.com/in/hasanliaqat)  
