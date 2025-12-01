@@ -89,7 +89,7 @@ A set of structured assignments demonstrating C++ fundamentals.
 If you're into cybersecurity, CTFs, or programming — let’s collaborate!
 
 📩 Email: **hassanliaqat194@gmail.com**  
-🔗 LinkedIn: **/in/hassanliaqat**
+🔗 LinkedIn: **/in/hasanliaqat**
 
 ---
 
