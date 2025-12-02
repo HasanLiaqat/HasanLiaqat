@@ -57,7 +57,7 @@ I’m continuously learning, building, and breaking things (ethically 😄).
 ### 🔐 **C++ Security Projects**
 A collection of cryptographic implementations and security-focused programs.  
 **Tech:** C++, RSA, Diffie-Hellman, XOR  
-➡ *Repo:* `cpp-security-projects`
+➡ *Repo:* `cpp-encryption-decryption-projects`
 
 ### 💻 **C++ Assignments**
 A set of structured assignments demonstrating C++ fundamentals.
