@@ -64,15 +64,6 @@ A set of structured assignments demonstrating C++ fundamentals.
 
 ---
 
-## 📊 GitHub Stats (Cyber-Theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanLiaqat&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanLiaqat&theme=radical" height="165" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 If you're into cybersecurity, CTFs, or programming — let’s collaborate!
 
