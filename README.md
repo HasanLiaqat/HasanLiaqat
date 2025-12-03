@@ -43,27 +43,6 @@ I’m continuously learning, building, and breaking things (ethically 😄).
 
 ---
 
-## 🧪 Current Learning Roadmap
-- ✔ Linux fundamentals  
-- ✔ CTF basics (TryHackMe)  
-- 🔨 Python automation for security  
-- ⚙ Web Application Pentesting  
-- 🎯 Preparing for OSCP (long-term goal)
-
----
-
-## 📌 Featured Projects
-
-### 🔐 **C++ Security Projects**
-A collection of cryptographic implementations and security-focused programs.  
-**Tech:** C++, RSA, Diffie-Hellman, XOR  
-➡ *Repo:* `cpp-encryption-decryption-projects`
-
-### 💻 **C++ Assignments**
-A set of structured assignments demonstrating C++ fundamentals.
-
----
-
 ## 🤝 Let’s Connect
 If you're into cybersecurity, CTFs, or programming — let’s collaborate!
 
