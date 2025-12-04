@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Hassan — Cybersecurity Enthusiast</h1>
+<h1 align="center"> Hey, I'm Hassan — Cybersecurity Enthusiast</h1>
 
 <p align="center">
   <strong>Aspiring Ethical Hacker | C++ & Python Developer | Linux & CTF Learner</strong>
@@ -6,14 +6,12 @@
 
 ---
 
-## 🔒 About Me  
+##  About Me  
 I'm a cybersecurity student at FAST NUCES with a strong interest in:
 
 - Penetration Testing  
 - Network & Application Security  
-- Exploit Development  
-- Digital Forensics  
-- Linux + Bash Automation  
+- Exploit Development   
 - CTFs & Hands-on Security Labs  
 
 I’m continuously learning, building, and breaking things (ethically 😄).
@@ -29,9 +27,7 @@ I’m continuously learning, building, and breaking things (ethically 😄).
 
 ### **Cybersecurity**
 - Linux (Kali)
-- Nmap, Hydra, Gobuster  
-- Hash cracking (John, Hashcat)  
-- Wireshark & traffic analysis  
+- Nmap, Hydra, Gobuster    
 - Cryptography basics (RSA, XOR, DH)  
 - Web security basics (SQLi, XSS, LFI/RFI)
 
