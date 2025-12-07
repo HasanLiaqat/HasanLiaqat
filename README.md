@@ -7,7 +7,7 @@
 ---
 
 ##  About Me  
-I'm a cybersecurity student at FAST NUCES with a strong interest in:
+I'm a cybersecurity student at FAST NUCES ISB with a strong interest in:
 
 - Penetration Testing  
 - Network & Application Security  
