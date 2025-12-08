@@ -39,12 +39,4 @@ I’m continuously learning, building, and breaking things (ethically 😄).
 
 ---
 
-## 🤝 Let’s Connect
-If you're into cybersecurity, CTFs, or programming — let’s collaborate!
-
-📩 Email: **hassanliaqat194@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/hasanliaqat**
-
----
-
 ⭐ *"The quieter you become, the more you are able to hear."*  
