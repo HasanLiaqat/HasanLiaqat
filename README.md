@@ -35,6 +35,7 @@ Looking for an **entry-level or internship role in penetration testing / offensi
 | **CTF exploitation & vulnerability analysis** | <a href="https://github.com/HasanLiaqat/tryhackme-cybersecurity-labs">TryHackMe Cybersecurity Labs</a> |
 | **Applied cryptography (cipher implementation)** | <a href="https://github.com/HasanLiaqat/cpp-encryption-decryption-projects">C++ Encryption & Decryption Projects</a> |
 | **Classes & File Management  (raw sockets, custom HTTP server)** | <a href="https://github.com/HasanLiaqat/online-judge-cpp">Online Judge (C++, from scratch)</a> |
+| **Authentication & credential storage design** | <a href="https://github.com/HasanLiaqat/cpp-password-manager">C++ Password Manager</a> |
 
 ---
  
@@ -90,6 +91,7 @@ Looking for an **entry-level or internship role in penetration testing / offensi
 - 🚩 **[TryHackMe Cybersecurity Labs](https://github.com/HasanLiaqat/tryhackme-cybersecurity-labs)** — CTF writeups and room solutions
 - 🔐 **[C++ Encryption & Decryption Projects](https://github.com/HasanLiaqat/cpp-encryption-decryption-projects)** — applied cryptography implementations
 - ⚙️ **[Online Judge Platform](https://github.com/HasanLiaqat/online-judge-cpp)** — full judge system built from scratch in C++
+- 🔑 **[C++ Password Manager](https://github.com/HasanLiaqat/cpp-password-manager)** — console-based credential vault with master-password auth and CRUD operations
 
 ---
 
