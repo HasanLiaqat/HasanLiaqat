@@ -34,14 +34,20 @@ Looking for an **entry-level or internship role in penetration testing / offensi
 | **Attack surface analysis & pentesting methodology** | <a href="https://github.com/HasanLiaqat/penetration-testing-playbook">Penetration Testing Playbook</a> |
 | **CTF exploitation & vulnerability analysis** | <a href="https://github.com/HasanLiaqat/tryhackme-cybersecurity-labs">TryHackMe Cybersecurity Labs</a> |
 | **Applied cryptography (cipher implementation)** | <a href="https://github.com/HasanLiaqat/cpp-encryption-decryption-projects">C++ Encryption & Decryption Projects</a> |
-| **Leetcode Replica Project (raw sockets, custom HTTP server)** | <a href="https://github.com/HasanLiaqat/online-judge-cpp">Online Judge (C++, from scratch)</a> |
+| **Classes & File Management  (raw sockets, custom HTTP server)** | <a href="https://github.com/HasanLiaqat/online-judge-cpp">Online Judge (C++, from scratch)</a> |
 
-*Techniques I'm actively practicing:*
+---
+ 
+ **Techniques I'm actively practicing:**
 
 🔍 Reconnaissance & port scanning (Nmap)
+
 🗂️ Service enumeration & banner grabbing
+
 🐧 Linux fundamentals & privilege escalation basics
+
 🌐 Basic web app testing (login bypass, simple injection, directory brute-forcing)
+
 🕵️ OSINT for CTF flag-hunting
 
 ---
