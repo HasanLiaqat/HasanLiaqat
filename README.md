@@ -34,6 +34,7 @@ Looking for an **entry-level or internship role in penetration testing / offensi
 | **Attack surface analysis & pentesting methodology** | <a href="https://github.com/HasanLiaqat/penetration-testing-playbook">Penetration Testing Playbook</a> |
 | **CTF exploitation & vulnerability analysis** | <a href="https://github.com/HasanLiaqat/tryhackme-cybersecurity-labs">TryHackMe Cybersecurity Labs</a> |
 | **Applied cryptography (cipher implementation)** | <a href="https://github.com/HasanLiaqat/cpp-encryption-decryption-projects">C++ Encryption & Decryption Projects</a> |
+| **Leetcode Replica Project (raw sockets, custom HTTP server)** | <a href="https://github.com/HasanLiaqat/online-judge-cpp">Online Judge (C++, from scratch)</a> |
 
 *Techniques I'm actively practicing:*
 
@@ -82,6 +83,7 @@ Looking for an **entry-level or internship role in penetration testing / offensi
 - 🕸️ **[Penetration Testing Playbook](https://github.com/HasanLiaqat/penetration-testing-playbook)** — structured reference for threat-informed pentesting workflows
 - 🚩 **[TryHackMe Cybersecurity Labs](https://github.com/HasanLiaqat/tryhackme-cybersecurity-labs)** — CTF writeups and room solutions
 - 🔐 **[C++ Encryption & Decryption Projects](https://github.com/HasanLiaqat/cpp-encryption-decryption-projects)** — applied cryptography implementations
+- ⚙️ **[Online Judge Platform](https://github.com/HasanLiaqat/online-judge-cpp)** — full judge system built from scratch in C++
 
 ---
 
