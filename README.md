@@ -80,8 +80,15 @@ Looking for an **entry-level or internship role in penetration testing / offensi
 
 ## 🏆 Achievements & Badges
 
+🎳 **First Four** — completed four TryHackMe rooms in my first week on the platform.
+
 <img src="https://assets.tryhackme.com/room-badges/fb3443646f36eb5e4d3d6d799f54cc69.png" width="120" alt="TryHackMe First Four badge" />
-🎳 First Four — completed four TryHackMe rooms in my first week on the platform.
+
+🔐 **Introduction to Cybersecurity** — Cisco certification, verified via Credly.
+
+<a href="https://www.credly.com/badges/edd3051a-0eaf-4179-9f9a-855b46a658f1/public_url">
+  <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" width="150" alt="Introduction to Cybersecurity - Cisco"/>
+</a>
 
 ---
 
