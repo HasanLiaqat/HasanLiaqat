@@ -34,14 +34,15 @@ Looking for an **entry-level or internship role in penetration testing / offensi
 | **Attack surface analysis & pentesting methodology** | <a href="https://github.com/HasanLiaqat/penetration-testing-playbook">Penetration Testing Playbook</a> |
 | **CTF exploitation & vulnerability analysis** | <a href="https://github.com/HasanLiaqat/tryhackme-cybersecurity-labs">TryHackMe Cybersecurity Labs</a> |
 | **Applied cryptography (cipher implementation)** | <a href="https://github.com/HasanLiaqat/cpp-encryption-decryption-projects">C++ Encryption & Decryption Projects</a> |
-| **Classes & File Management  (raw sockets, custom HTTP server)** | <a href="https://github.com/HasanLiaqat/online-judge-cpp">Online Judge (C++, from scratch)</a> |
+| **Network reconnaissance & socket programming (Winsock, TCP/IP)** | <a href="https://github.com/HasanLiaqat/cpp-port-scanner">C++ Port Scanner</a> |
+| **Classes & File Management (raw sockets, custom HTTP server)** | <a href="https://github.com/HasanLiaqat/online-judge-cpp">Online Judge (C++, from scratch)</a> |
 | **Authentication & credential storage design** | <a href="https://github.com/HasanLiaqat/cpp-password-manager">C++ Password Manager</a> |
 
 ---
  
  **Techniques I'm actively practicing:**
 
-🔍 Reconnaissance & port scanning (Nmap)
+🔍 Reconnaissance & port scanning (Nmap, and my own C++ Winsock scanner)
 
 🗂️ Service enumeration & banner grabbing
 
@@ -97,6 +98,7 @@ Looking for an **entry-level or internship role in penetration testing / offensi
 - 🕸️ **[Penetration Testing Playbook](https://github.com/HasanLiaqat/penetration-testing-playbook)** — structured reference for threat-informed pentesting workflows
 - 🚩 **[TryHackMe Cybersecurity Labs](https://github.com/HasanLiaqat/tryhackme-cybersecurity-labs)** — CTF writeups and room solutions
 - 🔐 **[C++ Encryption & Decryption Projects](https://github.com/HasanLiaqat/cpp-encryption-decryption-projects)** — applied cryptography implementations
+- 🌐 **[C++ Port Scanner](https://github.com/HasanLiaqat/cpp-port-scanner)** — TCP port scanner built with the Winsock API to identify open ports on a target host
 - ⚙️ **[Online Judge Platform](https://github.com/HasanLiaqat/online-judge-cpp)** — full judge system built from scratch in C++
 - 🔑 **[C++ Password Manager](https://github.com/HasanLiaqat/cpp-password-manager)** — console-based credential vault with master-password auth and CRUD operations
 
